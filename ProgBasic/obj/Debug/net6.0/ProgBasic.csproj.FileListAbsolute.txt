@@ -1,0 +1,15 @@
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.exe
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.deps.json
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.runtimeconfig.json
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.dll
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.pdb
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.csproj.AssemblyReference.cache
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.AssemblyInfoInputs.cache
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.AssemblyInfo.cs
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.csproj.CoreCompileInputs.cache
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.dll
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\refint\ProgBasic.dll
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.pdb
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.genruntimeconfig.cache
+C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\ref\ProgBasic.dll
