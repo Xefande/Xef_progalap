@@ -178,8 +178,22 @@ bool b17 = b1 ^ b2;  //XOR: Kizáró vagy
 
 */
 
+/*
+int n1 = 5;
+int n2 = 6;
+int n3 = 7;
+int n4 = 8;
+int n5 = 9000;
 
+int sum = n1 + n2 + n3 + n4 + n5;
 
+int counter = 5;
+
+int avarage = sum / counter;
+
+Console.WriteLine(avarage);
+
+*/
 
 
 

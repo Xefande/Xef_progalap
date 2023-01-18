@@ -1,12 +1,13 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
+/*
 Console.WriteLine("Hello World");
 Console.WriteLine("Hello World");
 Console.WriteLine("Hello World");
 Console.WriteLine("Hello World");
 Console.WriteLine("Hello World");
 Console.WriteLine("Hello World");
-
+*/
 // ELÁGAZÁSOK
 
 /*
@@ -204,13 +205,14 @@ while (a <= 10) {
 
 //Metódusok
 
+/*
 double f1 = 12.5f;
 double f2 = 3;
 
 
 double power = Math.Pow(f1,f2); //f1^f2
 double power = Math.Pow( );
-
+*/
 
 
 
