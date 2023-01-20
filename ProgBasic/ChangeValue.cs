@@ -2,7 +2,7 @@
 // Írj programot, ami kicseréli két int típusú változó értékét! úgy, hogy egyéb változót nem használ hozzá.
 // 
 
-
+/*
 
 Console.WriteLine("Add meg 'a' értékét: ");
 int a = int.Parse(Console.ReadLine());
@@ -26,4 +26,4 @@ a = a - b; //a == 20
 Console.WriteLine("a = " + a);
 Console.WriteLine("b = " + b);
 
-
+*/

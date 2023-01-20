@@ -80,8 +80,8 @@ Console.WriteLine(text4 + n + text5 + avarage);
 // Console.WriteLine(text6 + sum);
 
 
-
 */
+
 
 
 /*
