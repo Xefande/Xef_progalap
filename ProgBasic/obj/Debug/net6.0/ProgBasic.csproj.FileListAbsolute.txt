@@ -28,3 +28,18 @@ C:\Users\3dstu\Asztali gép\Projektek\Xef_progalap\ProgBasic\obj\Debug\net6.0\re
 \\DESKTOP-CA67C04\Unity\UNITY KURZUS\github\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.pdb
 \\DESKTOP-CA67C04\Unity\UNITY KURZUS\github\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.genruntimeconfig.cache
 \\DESKTOP-CA67C04\Unity\UNITY KURZUS\github\Xef_progalap\ProgBasic\obj\Debug\net6.0\ref\ProgBasic.dll
+E:\_GIT\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.exe
+E:\_GIT\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.deps.json
+E:\_GIT\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.runtimeconfig.json
+E:\_GIT\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.dll
+E:\_GIT\Xef_progalap\ProgBasic\bin\Debug\net6.0\ProgBasic.pdb
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.csproj.AssemblyReference.cache
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.AssemblyInfoInputs.cache
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.AssemblyInfo.cs
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.csproj.CoreCompileInputs.cache
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.dll
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\refint\ProgBasic.dll
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.pdb
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ProgBasic.genruntimeconfig.cache
+E:\_GIT\Xef_progalap\ProgBasic\obj\Debug\net6.0\ref\ProgBasic.dll
