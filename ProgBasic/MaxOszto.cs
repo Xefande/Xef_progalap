@@ -11,8 +11,8 @@ using System.Threading.Tasks;
 
 
 
-// int x = GreCoDiv(6666676625, 10);
-// Console.WriteLine(x);
+int x = kt(5, 10);
+Console.WriteLine(x);
 
 // Console.WriteLine(SumDigits(0));
 
@@ -173,4 +173,88 @@ int GreCoDiv2(int a, int b)
         a = GreCoDiv2(b, a);
     }
     return a;
+}
+
+
+int kt(int a, int b){return a * b / ko(a, b);}
+int ko(int a, int b) {if (a < b){b = b - a;} if (a != b){a = ko(b, a);} return a;}
+
+
+// Írj metódust, ami kiszámolja egy paraméterben kapott float tömb elemeinek átlagát és visszatér az eredménnyel!
+
+
+
+float[] randomArrayName = { -200, -100, 66, 5216, 212, -321, 56, -221};
+
+float Min = arrayMax(randomArrayName);
+
+Console.WriteLine(Min);
+
+float methArrAtl(float[] arrayName)
+{
+    float sum = 0; // tömb elemeinek összege
+    int e = 0; // elemek száma
+    float atl; // tömbelemeinek átlaga
+
+    for (int i = 0; i < arrayName.Length; i++) 
+    { 
+    sum = sum + arrayName[i]; // hozzáadjuk az eddigmegvizsgált tömb elemeienek összegéhez a következő elem értékét
+    e++; // növeljük az elemek számát
+    }
+    atl = sum / e; // kiszámoljuk az átlagot
+    return atl; // visszatérünk az átlaggal
+}
+
+
+
+// Írj metódust, ami kap egy `int` típusú paramétert, nevezzük `length`-nek!
+//
+// A metódus létrehoz egy `length` elemű `int` tömböt, és feltölti azt 1-től `length`-ig sorban számokkal.
+// A metódus ezzel a tömbbel tér vissza.
+
+int[] arrayMaker(int l)
+{
+    int[] array; 
+    array = new int[l];
+
+    for (int i = 1; i <= l; i++)
+    {
+        array[i] = i;
+    }
+    return array;
+}
+
+
+// Írj függvényt, ami visszaadja egy paraméterben kapott float tömb legkisebb értékét!
+
+float arrayMin(float[] arrayName)
+{
+    float aMin = arrayName[0];
+    for (int i = 0; i < arrayName.Length; i++)
+    {
+        if (arrayName[i] < aMin)
+        {
+            aMin = arrayName[i];
+        }
+    }
+
+
+    return aMin;
+}
+
+// Írj függvényt, ami visszaadja egy paraméterben kapott float tömb legnagyobb értékét!
+
+float arrayMax(float[] arrayName)
+{
+    float aMax = arrayName[0];
+
+    for (int i = 0; i < arrayName.Length; i++)
+    {
+        if (arrayName[i] > aMax)
+        {
+            aMax = arrayName[i];
+        }
+    }
+
+    return aMax;
 }
